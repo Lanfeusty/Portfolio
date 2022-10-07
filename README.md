@@ -104,8 +104,15 @@ En ayant effectué ce stage à 2, j’ai appris à travailler en équipe et cons
 
 #### 1.6.4 Taches Annexes 
 
+Au sein du Centre Information Jeunesse, j’ai aussi pu aider des usagers au travers de différents situations comme l’installation d’une caméra sans fil, l’importation d’image depuis un appareil client et le remplacement et réparation de matériels informatiques (Ecrans, claviers, …).
 
+### 1.7 Conclusion
 
+Pour conclure, je dirai que ce stage a été une expérience très enrichissante d’un point de vue personnel et professionnel. En effet, ce stage m’a permis de voir que j’appréciais vraiment l’informatique et le plaisir de créer un projet à partir de ses propres idées. L’équipe du Centre Information Jeunesse et sa directrice ont été très bienveillant à mon égard ce qui m’a permis de travailler dans un espace de travail sain et avec une bonne ambiance. Ce stage m’a aussi permis de voir qu’il reste encore une multitude d’erreurs que je dois corriger notamment sur la partie développement. J’ai aussi apprécié aider des personnes sur place mais aussi donner quelques conseils de cybersécurité.
+
+### 1.8 Annexe 
+
+**(Images à insérer)**
 
 
 
