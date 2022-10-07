@@ -1,3 +1,3 @@
 # Portfolio
 
-# 1. Note de synthèse
+## 1. Note de synthèse
